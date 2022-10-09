@@ -1,4 +1,7 @@
-<h1 align="center">Hi Coders👋, I'm Richa k</h1>
+
+
+
+<h1 align="center"><img align="center" src="https://github.com/Richa-12y/Richa-12y/blob/main/___-removebg-preview.png" width="200px"/>Hi Coders👋, I'm Richa k</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="center" alt="codinggirl" src="https://thumbs.gfycat.com/AppropriateFatKagu-max-1mb.gif" width="100%" height="10%" object-fit="cover" display="flex" align-item="center" justify-content="center"/>
