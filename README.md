@@ -35,9 +35,9 @@
 <a href="https://dev.to/https://richak.hashnode.de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://richak.hashnode.de" height="30" width="40" /></a>
 <a href="https://twitter.com/shine through the dark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shine through the dark" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/richa kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richa kumari" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/reone richa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="reone richa" height="30" width="40" /></a>
-<a href="https://hashnode.com/@richak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@richak" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kricha000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kricha000" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19630410/reone-richa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="reone richa" height="30" width="40" /></a>
+<a href="https://hashnode.com/@Richa000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@richak" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kricha000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kricha000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
