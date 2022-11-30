@@ -16,8 +16,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React js, Angular, Node.js,**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/richa-12y/overview?_ga=2.94181597.1750016025.1665312769-1757529719.1660318534](https://app.netlify.com/teams/richa-12y/overview?_ga=2.94181597.1750016025.1665312769-1757529719.1660318534)
-
+- 👨‍💻 All of my projects are available at https://app.netlify.com/teams/richa-12y/sites
 - 📝 I regularly write articles on [https://hashnode.com/@Richa000](https://hashnode.com/@Richa000)
 
 - 💬 Ask me about **HTML,CSS,JS,React**
