@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at https://app.netlify.com/teams/richa-12y/sites
 - 📝 I regularly write articles on [https://hashnode.com/@Richa000](https://hashnode.com/@Richa000)
-
+- 🎯 My portfolio [https://richa-porfolio.netlify.app/](https://richa-porfolio.netlify.app/)
 - 💬 Ask me about **HTML,CSS,JS,React**
 
 - 📫 How to reach me **kricha000@gmail.com**
