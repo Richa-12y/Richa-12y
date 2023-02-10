@@ -6,7 +6,7 @@
 
 <img align="center" alt="codinggirl" src="https://wallpapers.com/images/high/awesome-pfp-hatsune-miku-nnhwle4tj8ukhtc1.webp" width="100%" height="10%" object-fit="cover" display="flex" align-item="center" justify-content="center"/>
 
-<p align="left"> <img src="https://wallpapers.com/wallpapers/awesome-pfp-hatsune-miku-nnhwle4tj8ukhtc1.html?embed=true" alt="richa-12y" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=richa-12y&label=Profile%20views&color=0e75b6&style=flat" alt="richa-12y" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richa-12y" alt="richa-12y" /></a> </p>
 
