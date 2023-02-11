@@ -3,8 +3,9 @@
 
 <h1 align="center"><img align="center" src="https://github.com/Richa-12y/Richa-12y/blob/main/___-removebg-preview.png" width="200px"/>Hi Coders👋, I'm Richa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="center" alt="codinggirl" src="https://media.tenor.com/zWLzYDsUprAAAAAC/anime-boy.gif" width="100%" height="5%" object-fit="cover" display="flex" align-item="center" justify-content="center"/>
 
-<img align="center" alt="codinggirl" src="https://wallpapers.com/images/high/awesome-pfp-hatsune-miku-nnhwle4tj8ukhtc1.webp" width="100%" height="10%" object-fit="cover" display="flex" align-item="center" justify-content="center"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richa-12y&label=Profile%20views&color=0e75b6&style=flat" alt="richa-12y" /> </p>
 
@@ -24,6 +25,8 @@
 - 📫 How to reach me **kricha000@gmail.com**
 
 - ⚡ Fun fact **I am funny 😂**
+
+<img align="center" alt="codinggirl" src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="100%" height="5%" object-fit="cover" display="flex" align-item="center" justify-content="center"/>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
