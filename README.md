@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **kricha000@gmail.com**
 
-- ⚡ Fun fact **I am funny 😂**
+- ⚡ Fun fact **I am Memer 😂**
 
 <img align="center" alt="codinggirl" src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" width="100%" height="5%" object-fit="cover" display="flex" align-item="center" justify-content="center"/>
 
