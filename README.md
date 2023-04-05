@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working in **MOVATE(CSS CORP)**
 
-- 🌱 I’m currently learning **Node.js,Express.js MongoDB**
+- 🌱 I’m currently learning **Node.js,Express.js MongoDB,Next js**
 
 - 👨‍💻 All of my projects are available at https://app.netlify.com/teams/richa-12y/sites
 - 📝 I regularly write articles on [https://hashnode.com/@Richa000](https://hashnode.com/@Richa000)
