@@ -4,7 +4,7 @@
 
 <!-- GIF Section -->
 <p align="center">
-  <img alt="codinggirl" src="https://media.tenor.com/xNBVVa-I_U0AAAAd/kocho.gif" width="100%" height="auto" object-fit="cover" display="flex" align-item="center" justify-content="center"/>
+  <img alt="codinggirl" src="https://gifdb.com/images/high/4k-anime-498-x-241-gif-kpnnk8elfpjxlmze.webp" width="100%" height="auto" object-fit="cover" display="flex" align-item="center" justify-content="center"/>
 </p>
 
 <!-- Profile Views -->
@@ -33,7 +33,7 @@
 
 <!-- Coding GIF Section -->
 <p align="center">
-  <img alt="codinggirl" src="https://media.tenor.com/1uklp9zqO3oAAAAC/computer-typing.gif" width="100%" height="auto" object-fit="cover" display="flex" align-item="center" justify-content="center"/>
+  <img alt="codinggirl" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif" width="100%" height="auto" object-fit="cover" display="flex" align-item="center" justify-content="center"/>
 </p>
 
 <!-- Connect with Me Section -->
